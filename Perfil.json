@@ -1,0 +1,27 @@
+{
+  "name": "Jonathan Crane",
+  "alias": "Scarecrow",
+  "baseOfOperations": [
+    "Gotham City",
+    "Arkham Asylum"
+  ],
+  "status": {
+    "alignment": "bad",
+    "citizenship": "american",
+    "maritalStatus": "single",
+    "occupation": [
+      "anarchist",
+      "serial killer",
+      "former psychiatrist",
+      "university professor"
+    ],
+    "active": true
+  },
+  "characteristics": {
+    "gender": "male",
+    "height": 1.83,
+    "weight": 64,
+    "eyes": "blue",
+    "hair": "brown"
+  }
+}
